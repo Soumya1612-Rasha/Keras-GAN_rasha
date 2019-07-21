@@ -14,3 +14,5 @@ class Cfg:
     evals=100
     learn_rate=0.0002
     momentum=0.5
+    latent_dim=100
+    interval=50
