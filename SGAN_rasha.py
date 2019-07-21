@@ -109,7 +109,7 @@ class SGAN_rasha:
 
         return Model(img, [valid, label])
 
-    def train_rasha(self, epochs, batch_size=128, sample_interval=50):
+    def train_rasha(self, epochs=Cfg.epochs, batch_size=Cfg.batch_size, sample_interval=Cfg.interval):
 
         # Load the dataset
         (X_train, y_train), (_, _) = mnist.load_data()
