@@ -9,4 +9,4 @@ Original Paper: https://arxiv.org/abs/1606.01583
 
 2. Deep_CNNGAN_rasha.py : Deep Convolutional Generative Adversarial Network
 
-Paper: https://arxiv.org/abs/1511.06434
+Original Paper: https://arxiv.org/abs/1511.06434
