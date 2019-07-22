@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jul 21 02:23:47 2019
 
 @author: Soumya Suvra Ghosal
 """
